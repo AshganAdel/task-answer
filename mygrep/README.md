@@ -1,6 +1,6 @@
 # Custom-Command
 ## A breakdown of how my script handles arguments and options 
-The script can take three or two argument 
+The script can take three or two argument.<br /> 
   First: for the option (-n, -v, -nv, -vn), this field is optional.
   Second: for the string, this field is necessary.
   Third: for the file name, this field is necessary.
